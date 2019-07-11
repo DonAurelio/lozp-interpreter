@@ -25,7 +25,7 @@ This repository holds an interpreter in Mozart/Oz of a simple lisp based laguage
 
 ## Todo
 
--[] the *parser.oz* only has the tokenizer step, the parser step is missing.
+- [ ] the *parser.oz* only has the tokenizer step, the parser step is missing.
 
 ## Contributors
 
